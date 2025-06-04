@@ -19,11 +19,6 @@ Beyond my professional work, I love diving into exciting creative projects and e
 * **Game Development**
 * **Continuous Learning**: I love learning a wide variety of things every day! 🚀
 
-### 🗣️ Languages
-
-* English (Mother tongue)
-* Portuguese (Mother tongue)
-
 ### 🤝 Let's Connect!
 
 Feel free to reach out! I'm always open to discussing new ideas and collaborations. 😊
