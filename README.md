@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**x-wf2/x-wf2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James, an Engineer with a passion for building robust and automated systems.
 
-Here are some ideas to get you started:
+### 🛠️ My Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Skills**: Programming, Databases, Networks, Infrastructure, Project Management and Data Analysis[cite: 5].
+* **Languages**: Python, JavaScript, Java, Groovy, POSIX Shells (Bash, zsh)[cite: 5].
+* **DevOps Tools**: Ansible, Jenkins, Terraform, AWS, GCP[cite: 5], Docker, Kubernetes[cite: 6].
+
+### 🎮 Creative Pursuits & Explorations
+
+Beyond my professional work, I love diving into exciting creative projects and exploring new technologies:
+
+* **Home Automation and IoT Projects**
+* **Mobile Application Development**
+* **Exploring Distributed Systems**
+* **Open Source Contributions**
+* **Game Development**
+* **Continuous Learning**: I love learning a wide variety of things every day! 🚀
+
+### 🗣️ Languages
+
+* English (Mother tongue)
+* Portuguese (Mother tongue)
+
+### 🤝 Let's Connect!
+
+Feel free to reach out! I'm always open to discussing new ideas and collaborations. 😊
