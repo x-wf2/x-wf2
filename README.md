@@ -4,9 +4,9 @@ I'm James, an Engineer with a passion for building robust and automated systems.
 
 ### 🛠️ My Toolbox
 
-* **Skills**: Programming, Databases, Networks, Infrastructure, Project Management and Data Analysis[cite: 5].
-* **Languages**: Python, JavaScript, Java, Groovy, POSIX Shells (Bash, zsh)[cite: 5].
-* **DevOps Tools**: Ansible, Jenkins, Terraform, AWS, GCP[cite: 5], Docker, Kubernetes[cite: 6].
+* **Skills**: Programming, Databases, Networks, Infrastructure, Project Management and Data Analysis.
+* **Languages**: Python, JavaScript, Java, Groovy, POSIX Shells (Bash, zsh).
+* **DevOps Tools**: Ansible, Jenkins, Terraform, AWS, GCP, Docker, Kubernetes.
 
 ### 🎮 Creative Pursuits & Explorations
 
